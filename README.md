@@ -13,7 +13,7 @@ Este proyecto cuenta con Documetacion de API en Swagger
 - Crear y configurar archivo .env basado en el ejemplo
 - npm i
 - npm run dev
-- Navegar a [text](http://localhost:3000/docs/)
+- Navegar a [text](http://localhost:3000/docs/) http://localhost:3000/docs/
 
 ### Como correr tests
 
