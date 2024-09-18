@@ -3,7 +3,7 @@ Explicacion paso a paso para corer proyecto
 
 ### Como inicar
 
-- Crear y configurar archivo .env
+- Crear y configurar archivo .env basado en el ejemplo
 - npm i
 - npm run dev
 
