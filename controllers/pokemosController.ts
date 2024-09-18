@@ -119,7 +119,7 @@ export const getOnePokemon = async (req: Request, res: Response) => {
 
 /**
  * @swagger
- * /api/pokemons/{id}/type:
+ * /api/pokemons/type/{id}:
  *   get:
  *     summary: Obtiene un Pokémon con su tipo por ID
  *     description: Este endpoint retorna la información de un Pokémon específico basado en su ID, incluyendo detalles sobre su tipo.
