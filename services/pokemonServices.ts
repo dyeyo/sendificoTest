@@ -1,6 +1,5 @@
 import axios from "axios";
 import { httpsAgent } from "./../config/axios";
-
 import { getTypeTranslations } from "./../utils/transformData";
 
 export const getPokemons = async () => {
