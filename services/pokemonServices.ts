@@ -5,7 +5,7 @@ import { getTypeTranslations } from "./../utils/transformData";
 
 export const getPokemons = async () => {
   try {
-    const response = await axios.get(`${process.env.ULR_BASE}`, {
+    const response = await axios.get(`${process.env.ULR_BASE}?limit=100`, {
       httpsAgent,
       timeout: 5000,
     });
